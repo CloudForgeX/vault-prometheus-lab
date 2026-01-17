@@ -48,7 +48,7 @@ terraform apply
 
 ## Folder Structure
 
--```
+```text
 terraform/
 ├─ ec2.tf                # EC2 instance setup
 ├─ security-group.tf
@@ -62,7 +62,7 @@ terraform/
 ├─ prometheus.yml        # Prometheus configuration
 ├─ prometheus.service    # Prometheus systemd service
 └─ README.md
--```
+```
 
 ---
 
